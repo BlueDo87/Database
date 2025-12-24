@@ -32,6 +32,7 @@ example:
 | kyockcho | きょくちょ | | |
 | zhen lu | 珍綠 | | |
 | milkshake | ミルクセーキ | | |
+| katou an | 加糖あん \| 和泉はち | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
