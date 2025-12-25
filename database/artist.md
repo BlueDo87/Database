@@ -36,6 +36,7 @@ example:
 | riia | りぃあ | | |
 | hen na kuukou | 変な空港 | | |
 | hatsuden pengin | 発電ペンギン | | |
+| oa | OA | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
