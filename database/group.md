@@ -32,6 +32,7 @@ example:
 | 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---- | ---- | -------- |
 | milkshake work | ミルクセーキ工房 |  |  |
+| sukebe hatsudenjo | すけべ発電所 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
