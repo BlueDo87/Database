@@ -35,6 +35,7 @@ example:
 | katou an | 加糖あん \| 和泉はち | | |
 | riia | りぃあ | | |
 | hen na kuukou | 変な空港 | | |
+| hatsuden pengin | 発電ペンギン | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
