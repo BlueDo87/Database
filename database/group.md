@@ -34,6 +34,7 @@ example:
 | milkshake work | ミルクセーキ工房 |  |  |
 | sukebe hatsudenjo | すけべ発電所 |  |  |
 | tabete mo ii | 食べてもいい |  |  |
+| denki neko | でんきねこ |  |  ||
 
 <!--TEMPLATE: 
 |  |  |  |  |
