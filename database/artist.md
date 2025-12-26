@@ -37,6 +37,7 @@ example:
 | hen na kuukou | 変な空港 | | |
 | hatsuden pengin | 発電ペンギン | | |
 | oa | OA | | |
+| subesube manjuu gani hogushimi | 滑々饅頭蟹ほぐしみ | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
