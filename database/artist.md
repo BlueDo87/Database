@@ -38,6 +38,7 @@ example:
 | hatsuden pengin | 発電ペンギン | | |
 | oa | OA | | |
 | subesube manjuu gani hogushimi | 滑々饅頭蟹ほぐしみ | | |
+| toku | とく | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
