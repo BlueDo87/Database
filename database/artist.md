@@ -39,6 +39,7 @@ example:
 | oa | OA | | |
 | subesube manjuu gani hogushimi | 滑々饅頭蟹ほぐしみ | | |
 | toku | とく | | |
+| rougetu | 朧月 | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
