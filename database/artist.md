@@ -41,6 +41,10 @@ example:
 | toku | とく | | |
 | nikubou maranoshin | 肉棒魔羅ノ進 | | |
 | siina tai | 椎名鯛 | | |
+| wazuchi nao | わづち直 | | |
+| ishigami hajime | 石紙一 | | |
+| kameyoshi ichiko | 亀吉いちこ | | |
+| aki | 秋 | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
