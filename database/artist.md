@@ -46,6 +46,7 @@ example:
 | kameyoshi ichiko | 亀吉いちこ | | |
 | aki | 秋 | | |
 | kurumaya koudou | クルマヤ公道 | | |
+| nishikida keishi | 西木田景志 | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
