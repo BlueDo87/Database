@@ -47,6 +47,7 @@ example:
 | aki | 秋 | | |
 | kurumaya koudou | クルマヤ公道 | | |
 | nishikida keishi | 西木田景志 | | |
+| tohyama eight | 東山エイト | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
