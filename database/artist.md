@@ -39,8 +39,8 @@ example:
 | oa | OA | | |
 | subesube manjuu gani hogushimi | 滑々饅頭蟹ほぐしみ | | |
 | toku | とく | | |
-| rougetu | 朧月 | | |
 | nikubou maranoshin | 肉棒魔羅ノ進 | | |
+| siina tai | 椎名鯛 | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
