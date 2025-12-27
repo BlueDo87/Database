@@ -45,6 +45,7 @@ example:
 | ishigami hajime | 石紙一 | | |
 | kameyoshi ichiko | 亀吉いちこ | | |
 | aki | 秋 | | |
+| kurumaya koudou | クルマヤ公道 | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
