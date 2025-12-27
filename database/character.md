@@ -30,7 +30,7 @@ example:
 
 | 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---- | ---- | -------- |
-| eria the water charmer | 水靈使艾莉婭 | 水霊使いエリア，`p:yu-gi-ou`<br>![](https://storage.moegirl.org.cn/moegirl/commons/9/97/%E6%B8%85%E5%86%BD%E4%B9%8B%E6%B0%B4%E7%81%B5%E4%BD%BF_%E8%89%BE%E8%8E%89%E5%A8%85.jpg)  |  |
+| eria the water charmer | 水靈使艾莉婭 | 水霊使いエリア，`p:yu-gi-oh`<br>![](https://storage.moegirl.org.cn/moegirl/commons/9/97/%E6%B8%85%E5%86%BD%E4%B9%8B%E6%B0%B4%E7%81%B5%E4%BD%BF_%E8%89%BE%E8%8E%89%E5%A8%85.jpg)  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
