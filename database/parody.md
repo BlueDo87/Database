@@ -33,8 +33,9 @@ example:
 | 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---- | ---- | -------- |
 | seirei gensouki | 精靈幻想記 |  |  |
-| yu-gi-oh | 遊戲王 |  |  ||
+| yu-gi-oh | 遊戲王 |  |  |
 | genshin impact | 原神 |  |  |
+| cue | CUE! |  |  |
 
 
 <!--TEMPLATE: 
