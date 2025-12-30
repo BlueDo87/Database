@@ -49,6 +49,7 @@ example:
 | nishikida keishi | 西木田景志 | | |
 | tohyama eight | 東山エイト | | |
 | sekiya asami | 関谷あさみ | | |
+| ssa | まりりん | `g:ssb` | |
 
 <!--TEMPLATE:
 |  |  |  |  |
