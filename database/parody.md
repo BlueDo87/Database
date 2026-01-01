@@ -38,6 +38,7 @@ example:
 | cue | CUE! |  |  |
 | youkoso jitsuryoku shijou shugi no kyoushitsu e | 歡迎來到實力至上主義的教室 |  |  |
 | dandadan | 膽大黨 |  |  |
+| oshi no ko | 我推的孩子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
