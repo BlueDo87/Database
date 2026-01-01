@@ -34,6 +34,7 @@ example:
 | focalors | 芙寧娜·德·楓丹 | `p:genshin impact`，Furina |  |
 | haruna mutsuishi | 六石陽菜 | `p:cue` |  |
 | honami ichinose | 一之瀨帆波 |  |  |
+| mem-cho | MEM-CHO | `p:oshi no ko` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
