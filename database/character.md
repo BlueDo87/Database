@@ -33,7 +33,7 @@ example:
 | eria the water charmer | 水靈使艾莉婭 | 水霊使いエリア，`p:yu-gi-oh`<br>![](https://storage.moegirl.org.cn/moegirl/commons/9/97/%E6%B8%85%E5%86%BD%E4%B9%8B%E6%B0%B4%E7%81%B5%E4%BD%BF_%E8%89%BE%E8%8E%89%E5%A8%85.jpg)  |  |
 | focalors | 芙寧娜·德·楓丹 | `p:genshin impact`，Furina |  |
 | haruna mutsuishi | 六石陽菜 | `p:cue` |  |
-| honami ichinose | 一之瀨帆波 |  |  |
+| honami ichinose | 一之瀨帆波 | `p:youkoso jitsuryoku shijou shugi no kyoushitsu e` |  |
 | mem-cho | MEM-CHO | `p:oshi no ko` |  |
 
 <!--TEMPLATE: 
