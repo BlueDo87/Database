@@ -39,6 +39,7 @@ example:
 | youkoso jitsuryoku shijou shugi no kyoushitsu e | 歡迎來到實力至上主義的教室 |  |  |
 | dandadan | 膽大黨 |  |  |
 | oshi no ko | 我推的孩子 |  |  |
+| sword art online | 刀劍神域 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
