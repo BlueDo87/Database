@@ -35,6 +35,7 @@ example:
 | haruna mutsuishi | 六石陽菜 | `p:cue` |  |
 | honami ichinose | 一之瀨帆波 | `p:youkoso jitsuryoku shijou shugi no kyoushitsu e` |  |
 | mem-cho | MEM-CHO | `p:oshi no ko` |  |
+| quinella | 葵妮拉 | `p:sword art online`，Administrator |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
