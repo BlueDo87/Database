@@ -40,6 +40,7 @@ example:
 | dandadan | 膽大黨 |  |  |
 | oshi no ko | 我推的孩子 |  |  |
 | sword art online | 刀劍神域 |  |  |
+| girumasu | 雖然是公會的櫃檯小姐，但因為不想加班所以打算獨自討伐迷宮頭目 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
