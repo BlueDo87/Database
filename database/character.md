@@ -37,6 +37,7 @@ example:
 | mem-cho | MEM-CHO | `p:oshi no ko` |  |
 | quinella | 葵妮拉 | `p:sword art online`，Administrator |  |
 | alina clover | 亞莉納·可洛瓦 | `p:girumasu` |  |
+| kris argent | 庫琉絲·亞爾根 | `p:nageki no bourei ha intai shitai`<br>![](https://anibase.net/files/d8d2a71cfcc55457cd944adc56c16621) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
