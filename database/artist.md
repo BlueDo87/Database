@@ -50,6 +50,7 @@ example:
 | tohyama eight | 東山エイト | | |
 | sekiya asami | 関谷あさみ | | |
 | ssa | まりりん | `g:ssb` | |
+| minamiin beat | 南院ビート | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
