@@ -51,6 +51,7 @@ example:
 | sekiya asami | 関谷あさみ | | |
 | ssa | まりりん | `g:ssb` | |
 | minamiin beat | 南院ビート | | |
+| tamaki misao | たまきみさお | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
