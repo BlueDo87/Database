@@ -52,6 +52,7 @@ example:
 | ssa | まりりん | `g:ssb` | |
 | minamiin beat | 南院ビート | | |
 | tamaki misao | たまきみさお | | |
+| izumike | いずミケ | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
