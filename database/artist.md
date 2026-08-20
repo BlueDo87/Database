@@ -53,6 +53,7 @@ example:
 | minamiin beat | 南院ビート | | |
 | tamaki misao | たまきみさお | | |
 | izumike | いずミケ | | |
+| 58 | ゴハチ | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
