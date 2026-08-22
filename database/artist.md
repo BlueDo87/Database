@@ -57,6 +57,7 @@ example:
 | tanukimaso | たぬきマソ | | |
 | isorashi | 五十嵐唱乃 | | |
 | minase akira | 水瀬洸 | | |
+| endou tatsumi | 遠藤たつみ | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
