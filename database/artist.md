@@ -54,6 +54,7 @@ example:
 | tamaki misao | たまきみさお | | |
 | izumike | いずミケ | | |
 | 58 | ゴハチ | | |
+| tanukimaso | たぬきマソ | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
