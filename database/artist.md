@@ -56,6 +56,7 @@ example:
 | 58 | ゴハチ | | |
 | tanukimaso | たぬきマソ | | |
 | isorashi | 五十嵐唱乃 | | |
+| minase akira | 水瀬洸 | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
