@@ -55,6 +55,7 @@ example:
 | izumike | いずミケ | | |
 | 58 | ゴハチ | | |
 | tanukimaso | たぬきマソ | | |
+| isorashi | 五十嵐唱乃 | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
