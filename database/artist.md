@@ -58,6 +58,7 @@ example:
 | isorashi | 五十嵐唱乃 | | |
 | minase akira | 水瀬洸 | | |
 | endou tatsumi | 遠藤たつみ | | |
+| fujimoto setsuna | 藤本セツナ | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
