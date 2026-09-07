@@ -59,6 +59,10 @@ example:
 | minase akira | 水瀬洸 | | |
 | endou tatsumi | 遠藤たつみ | | |
 | fujimoto setsuna | 藤本セツナ | | |
+| kame burning | 亀ランッパ火 | | |
+| kurikura kuro | 久里鞍くろ | | |
+| ashida ex | 芦田EX | | |
+| Kunel | く～ねる | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
