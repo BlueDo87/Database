@@ -36,6 +36,7 @@ example:
 | tabete mo ii | 食べてもいい |  |  |
 | denki neko | でんきねこ |  |  |
 | ssb | SSB |  |  |
+| round table | Round table |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
