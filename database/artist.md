@@ -64,6 +64,7 @@ example:
 | ashida ex | 芦田EX | | |
 | Kunel | く～ねる | | |
 | love-saber | シキ | `g:round table` | |
+| hong | Hong | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
