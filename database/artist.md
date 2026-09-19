@@ -65,6 +65,8 @@ example:
 | Kunel | く～ねる | | |
 | love-saber | シキ | `g:round table` | |
 | hong | Hong | | |
+| misao | ミサオ | | |
+| astroguy2 | Astroguy2 \| 仲村ユキトシ | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
