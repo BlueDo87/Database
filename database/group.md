@@ -37,6 +37,7 @@ example:
 | denki neko | でんきねこ |  |  |
 | ssb | SSB |  |  |
 | round table | Round table |  |  |
+| yorokin pan koujou | よろきんパン工場 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
