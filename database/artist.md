@@ -67,6 +67,7 @@ example:
 | hong | Hong | | |
 | misao | ミサオ | | |
 | astroguy2 | Astroguy2 \| 仲村ユキトシ | | |
+| adamyon | あだみょん | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
