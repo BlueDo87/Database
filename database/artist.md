@@ -68,6 +68,7 @@ example:
 | misao | ミサオ | | |
 | astroguy2 | Astroguy2 \| 仲村ユキトシ | | |
 | adamyon | あだみょん | | |
+| carpsukidayo | 吉本 | Yoshimoto | [FANBOX](https://carpsukidayo.fanbox.cc/) | [Fantia](https://fantia.jp/fanclubs/499498) | [pixiv](https://www.pixiv.net/users/19624123) | [X](https://x.com/carpsukidayo) | [Skeb](https://skeb.jp/@carpsukidayo) |
 
 <!--TEMPLATE:
 |  |  |  |  |
