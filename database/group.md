@@ -39,6 +39,7 @@ example:
 | round table | Round table |  |  |
 | yorokin pan koujou | よろきんパン工場 |  |  |
 | cyclo sabacane | cyclosabacane |  |  |
+| sojou no saba | 俎上の鯖 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
