@@ -71,6 +71,9 @@ example:
 | carpsukidayo | 吉本 | Yoshimoto | [FANBOX](https://carpsukidayo.fanbox.cc/) | [Fantia](https://fantia.jp/fanclubs/499498) | [pixiv](https://www.pixiv.net/users/19624123) | [X](https://x.com/carpsukidayo) | [Skeb](https://skeb.jp/@carpsukidayo) |
 | samazuka mashio | 様塚麻汐 | | |
 | arsenal | アーセナル \| 左倉かなを | | |
+| sabacane | 佐波缶 | | [pixiv](https://www.pixiv.net/users/31291526) |
+| sabakan | サバ缶 | | |
+| sabakan oekaki | さばかん | `g:sojou no saba` | [pixiv](https://www.pixiv.net/users/9857265) |
 
 <!--TEMPLATE:
 |  |  |  |  |
