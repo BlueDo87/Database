@@ -72,7 +72,7 @@ example:
 | samazuka mashio | 様塚麻汐 | | |
 | arsenal | アーセナル \| 左倉かなを | | |
 | sabacane | 佐波缶 | | [pixiv](https://www.pixiv.net/users/31291526) |
-| sabakan | サバ缶 | | |
+| sabakan | サバ缶 | | [pixiv](https://www.pixiv.net/users/1200416) |
 | sabakan oekaki | さばかん | `g:sojou no saba` | [pixiv](https://www.pixiv.net/users/9857265) |
 
 <!--TEMPLATE:
