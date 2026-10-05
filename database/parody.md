@@ -42,6 +42,7 @@ example:
 | sword art online | 刀劍神域 |  |  |
 | girumasu | 雖然是公會的櫃檯小姐，但因為不想加班所以打算獨自討伐迷宮頭目 |  |  |
 | nageki no bourei ha intai shitai | 嘆氣的亡靈想隱退 |  |  |
+| limelight lemonade jam | ライムライト・レモネードジャム |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
