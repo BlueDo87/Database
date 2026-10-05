@@ -38,6 +38,7 @@ example:
 | quinella | 葵妮拉 | `p:sword art online`，Administrator |  |
 | alina clover | 亞莉納·可洛瓦 | `p:girumasu` |  |
 | kris argent | 庫琉絲·亞爾根 | `p:nageki no bourei ha intai shitai`<br>![](https://wall.bahamut.com.tw/ct/60/GWDm4XDHF5xSPz0lSUBgSHJdOG3iiPMTkGdjc9oOlqnuBrG1Txd1g.JPG) |  |
+| anju nabari | 隠 杏珠 | `p:limelight lemonade jam`<br>![](https://www.yuzu-soft.com/products/lllj/images/mainchara/chara02/cos01.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
