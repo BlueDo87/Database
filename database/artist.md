@@ -76,6 +76,7 @@ example:
 | sabakan oekaki | さばかん | `g:sojou no saba` | [pixiv](https://www.pixiv.net/users/9857265) |
 | keimura mimic | みみっく | けいむら みみっく，Pandora 這社團的 | |
 | konka | 紺菓 | | |
+| asuka ren | 飛鳥蓮 | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
