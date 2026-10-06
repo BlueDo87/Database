@@ -77,6 +77,7 @@ example:
 | keimura mimic | みみっく | けいむら みみっく，Pandora 這社團的 | |
 | konka | 紺菓 | | |
 | asuka ren | 飛鳥蓮 | | |
+| anato natto | あなとなっと | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
