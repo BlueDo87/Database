@@ -78,6 +78,7 @@ example:
 | konka | 紺菓 | | |
 | asuka ren | 飛鳥蓮 | | |
 | anato natto | あなとなっと | | |
+| kujahumi | クジャフミ | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
