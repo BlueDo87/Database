@@ -79,6 +79,9 @@ example:
 | asuka ren | 飛鳥蓮 | | |
 | anato natto | あなとなっと | | |
 | kujahumi | クジャフミ | | |
+| akane midori | 朱音ミドリ | | |
+| toriniku | 鶏肉 | | |
+| uzakiyu | ウザキユウ | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
