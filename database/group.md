@@ -40,6 +40,7 @@ example:
 | yorokin pan koujou | よろきんパン工場 |  |  |
 | cyclo sabacane | cyclosabacane |  |  |
 | sojou no saba | 俎上の鯖 |  |  |
+| sabaku no nezumi | 砂漠のネズミ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
