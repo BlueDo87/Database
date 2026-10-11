@@ -82,6 +82,7 @@ example:
 | akane midori | 朱音ミドリ | | |
 | toriniku | 鶏肉 | | |
 | uzakiyu | ウザキユウ | | |
+| takayanagi mayumi | 高柳マユミ | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
