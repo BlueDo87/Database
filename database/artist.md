@@ -83,6 +83,7 @@ example:
 | toriniku | 鶏肉 | | |
 | uzakiyu | ウザキユウ | | |
 | takayanagi mayumi | 高柳マユミ | | |
+| shio coffee | しおこひー | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
