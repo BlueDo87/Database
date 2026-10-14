@@ -84,6 +84,7 @@ example:
 | uzakiyu | ウザキユウ | | |
 | takayanagi mayumi | 高柳マユミ | | |
 | shio coffee | しおこひー | | |
+| muchi maro | むちまろ | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
