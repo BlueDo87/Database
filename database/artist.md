@@ -85,6 +85,10 @@ example:
 | takayanagi mayumi | 高柳マユミ | | |
 | shio coffee | しおこひー | | |
 | muchi maro | むちまろ | | |
+| megao 3rd | メガオ4th | | |
+| futaba kurumi | 双葉くるみ | | |
+| kugurofu | くぐろふ | | |
+| sinkai | SINKAI | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
