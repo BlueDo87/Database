@@ -89,6 +89,8 @@ example:
 | futaba kurumi | 双葉くるみ | | |
 | kugurofu | くぐろふ | | |
 | sinkai | SINKAI | | |
+| kanisuki | かにすき | | |
+| alexi | あれきし \| アレキシ | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
