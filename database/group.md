@@ -41,6 +41,8 @@ example:
 | cyclo sabacane | cyclosabacane |  |  |
 | sojou no saba | 俎上の鯖 |  |  |
 | sabaku no nezumi | 砂漠のネズミ |  |  |
+| merenge tenmondai | メレンゲ天文台 |  |  |
+| kurumi no atelier | くるみのアトリエ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
