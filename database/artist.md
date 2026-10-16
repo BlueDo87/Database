@@ -91,6 +91,10 @@ example:
 | sinkai | SINKAI | | |
 | kanisuki | かにすき | | |
 | alexi | あれきし \| アレキシ | | |
+| 魚卵.com | gyoran.com | | |
+| zeita | ゼイタ | | |
+| rinderon | 凛で論 | | |
+| mangetsu wasabi | 満月わさび | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
