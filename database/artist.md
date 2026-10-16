@@ -95,6 +95,13 @@ example:
 | zeita | ゼイタ | | |
 | rinderon | 凛で論 | | |
 | mangetsu wasabi | 満月わさび | | |
+| okinaro sao | 緒きなろさ緒 | | |
+| ponzu inukimera | ぽんず犬キメラ | | |
+| nagi tobiuo | 凪とびうお | | |
+| hinamori | ヒナモリ | | |
+| kamushi | かむC | | |
+| puebro | ぷえぶろ | | |
+| hiroaki | ヒロアキ | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
