@@ -102,6 +102,7 @@ example:
 | kamushi | かむC | | |
 | puebro | ぷえぶろ | | |
 | hiroaki | ヒロアキ | | |
+| kitahana | 北花 | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
