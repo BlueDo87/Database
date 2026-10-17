@@ -43,6 +43,7 @@ example:
 | sabaku no nezumi | 砂漠のネズミ |  |  |
 | merenge tenmondai | メレンゲ天文台 |  |  |
 | kurumi no atelier | くるみのアトリエ |  |  |
+| kita no hanaya | 北の花屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
