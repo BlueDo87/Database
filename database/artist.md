@@ -103,6 +103,8 @@ example:
 | puebro | ぷえぶろ | | |
 | hiroaki | ヒロアキ | | |
 | kitahana | 北花 | | |
+| potaki | 歩滝 | | |
+| amegumi | あめぐみ | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
