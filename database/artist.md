@@ -105,6 +105,9 @@ example:
 | kitahana | 北花 | | |
 | potaki | 歩滝 | | |
 | amegumi | あめぐみ | | |
+| nyotayohu | にょたヨフ | | |
+| sentimental hayashi | せんちめんたるはやし | | |
+| nikunin simasima | ニクニンシマシマ | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
