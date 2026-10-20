@@ -44,6 +44,7 @@ example:
 | merenge tenmondai | メレンゲ天文台 |  |  |
 | kurumi no atelier | くるみのアトリエ |  |  |
 | kita no hanaya | 北の花屋 |  |  |
+| bukimi no tanigoto aishitai | 不気味の谷ごと愛したい |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
