@@ -109,6 +109,7 @@ example:
 | sentimental hayashi | せんちめんたるはやし | | |
 | nikunin simasima | ニクニンシマシマ | | |
 | wasisan | わしさん | | |
+| ring haka | リング墓 | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
