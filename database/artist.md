@@ -108,6 +108,7 @@ example:
 | nyotayohu | にょたヨフ | | |
 | sentimental hayashi | せんちめんたるはやし | | |
 | nikunin simasima | ニクニンシマシマ | | |
+| wasisan | わしさん | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
