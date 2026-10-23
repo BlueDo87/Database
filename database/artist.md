@@ -110,6 +110,11 @@ example:
 | nikunin simasima | ニクニンシマシマ | | |
 | wasisan | わしさん | | |
 | ring haka | リング墓 | | |
+| hamura wataru | 羽村わたる \| 栗東てしお | | |
+| honda aru | ほんだある \| 翻田亜流 | | |
+| shimosan | シモさん | | |
+| koiwa eta | 小岩エータ | | |
+| mitarai yuuki | 御手洗佑樹 \| おたらい零 | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
