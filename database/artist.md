@@ -119,6 +119,7 @@ example:
 | jouge riro | 上下りろ | | |
 | ktzw | 北澤産業 | | |
 | pistonring nishizawa | 西沢みずき | | |
+| barux | バルっくす | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
