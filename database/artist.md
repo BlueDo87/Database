@@ -120,6 +120,7 @@ example:
 | ktzw | 北澤産業 | | |
 | pistonring nishizawa | 西沢みずき | | |
 | barux | バルっくす | | |
+| kanabou tekateka | 金棒てかてか | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
