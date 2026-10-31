@@ -121,6 +121,7 @@ example:
 | pistonring nishizawa | 西沢みずき | | |
 | barux | バルっくす | | |
 | kanabou tekateka | 金棒てかてか | | |
+| asanagi sion | アサナギシオン | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
