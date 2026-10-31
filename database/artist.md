@@ -122,6 +122,7 @@ example:
 | barux | バルっくす | | |
 | kanabou tekateka | 金棒てかてか | | |
 | asanagi sion | アサナギシオン | | |
+| hituziyarou | 羊野郎 | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
