@@ -123,6 +123,15 @@ example:
 | kanabou tekateka | 金棒てかてか | | |
 | asanagi sion | アサナギシオン | | |
 | hituziyarou | 羊野郎 | | |
+| pororivista | ポロリビスタ | | |
+| zerry fujio | ZERRY藤尾 | | |
+| shikiouzi | シキオウジ | | |
+| tsyatu | Tシャツ | | |
+| yoshida tobio | 吉田鳶牡 | | |
+| damekama | だめかま | | |
+| kaitou yuuhi | 快刀ゆーひ | | |
+| rinki | RINKi | | |
+| labui | 羅ぶい \| 朝賀えり | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
