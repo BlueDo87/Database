@@ -132,6 +132,7 @@ example:
 | kaitou yuuhi | 快刀ゆーひ | | |
 | rinki | RINKi | | |
 | labui | 羅ぶい \| 朝賀えり | | |
+| hizuki akira | 緋月アキラ | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
