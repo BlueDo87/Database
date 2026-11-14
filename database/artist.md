@@ -134,6 +134,8 @@ example:
 | labui | 羅ぶい \| 朝賀えり | | |
 | hizuki akira | 緋月アキラ | | |
 | minda | 眠田 | | |
+| ushino kandume | 牛野缶詰 | | |
+| tadano garakuta | 只野ガラク太 | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
