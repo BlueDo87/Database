@@ -136,6 +136,10 @@ example:
 | minda | 眠田 | | |
 | ushino kandume | 牛野缶詰 | | |
 | tadano garakuta | 只野ガラク太 | | |
+| kyuusou uzu | 朽槽うず | | |
+| amesaki vanilla | 飴崎ばにら | | |
+| utsunomiya ukatsu | 鬱ノ宮うかつ | | |
+| hiramedousa | Hiramedousa | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
