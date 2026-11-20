@@ -140,6 +140,7 @@ example:
 | amesaki vanilla | 飴崎ばにら | | |
 | utsunomiya ukatsu | 鬱ノ宮うかつ | | |
 | hiramedousa | Hiramedousa | | |
+| ennr | えんぬる | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
