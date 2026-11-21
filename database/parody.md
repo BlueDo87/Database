@@ -43,6 +43,7 @@ example:
 | girumasu | 雖然是公會的櫃檯小姐，但因為不想加班所以打算獨自討伐迷宮頭目 |  |  |
 | nageki no bourei ha intai shitai | 嘆氣的亡靈想隱退 |  |  |
 | limelight lemonade jam | ライムライト・レモネードジャム |  |  |
+| tsuihou sareta cheat fuyo majutsushi | 被放逐的作弊賦予魔術師享受隨心所欲的第二人生。 | 追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
