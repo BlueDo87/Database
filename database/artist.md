@@ -141,6 +141,7 @@ example:
 | utsunomiya ukatsu | 鬱ノ宮うかつ | | |
 | hiramedousa | Hiramedousa | | |
 | ennr | えんぬる | | |
+| aya ryona | あや | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
