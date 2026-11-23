@@ -46,6 +46,7 @@ example:
 | kita no hanaya | 北の花屋 |  |  |
 | bukimi no tanigoto aishitai | 不気味の谷ごと愛したい |  |  |
 | manga kissa seto | 漫画喫茶瀬戸 |  |  |
+| ぷかちーの | puccacino |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
