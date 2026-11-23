@@ -142,6 +142,14 @@ example:
 | hiramedousa | Hiramedousa | | |
 | ennr | えんぬる | | |
 | aya ryona | あや | | |
+| ikura nikan | いくらニカン | | |
+| iwahoshi | いわほし | | |
+| buis lee | ブイス・リー | | |
+| kumo no umi | 雲のうみ | | |
+| pucachi | ぷかち | | |
+| mib yoshikazu | ミブヨシカズ | | |
+| moeno yukiji | 萠乃雪路 | | |
+| totoki | 十時 | | |
 
 <!--TEMPLATE:
 |  |  |  |  |
